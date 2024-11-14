@@ -1,0 +1,30 @@
+ls,Short for lists; displays the file and directory names in the current working directory.
+cp,Used to copies files and directories
+g++,Used to compile C++ programs from source code files 
+top,"Provides a dynamic, real-time view of system processes"
+chown,Used to change the owenership of files and directories
+clear,Used to clear the terminal screen of all previous commands and outputs
+pwd,Prints the working directory
+rm,Primarily for deleting files
+man,manul page for tools
+kill,Kill a running program
+alias,Replacement string that refrences a Linux command and produces the same results as when executing the original command
+exit,Replacement string that refrences a Linux command and produces the same results as when executing the original command
+cd,Change the current working directory
+mv,Used to rename or move files and directories
+gcc,GNU Compiler collection; compiles source code into executable programs
+who,Displays info about the users currently logged into the system
+df,Displays information about disk space usage on mounted filesystems
+find,Used to search for files and directories within a specified directory
+mkdir,Make directory
+ssh,Used to connect to server
+make,Run make to build a program
+chmod,Changes the file permissions of a specified file or directory
+grep,Searches for specific patterns within files or input text
+finger,Provides info about users on a system
+rmdir,Removes empty directories
+scp,Copy file over ssh to server
+ps,Process status; primary function is to report a snapshot of the current processes in a system
+cat,"Used to read, concatenate and display contents of files"
+echo,Displays text or variables to the terminal; outputs strings or values passes to it as arguments
+free,Displays information about system memory usage
